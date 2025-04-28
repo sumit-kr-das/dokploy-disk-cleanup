@@ -25,6 +25,20 @@
 
 ## Problem Overview
 
+# 🚨 Urgent: VPS Disk Space Nearly Full – Immediate Action Required
+
+Your VPS plan `xxxxxxxxxx.hstgr.cloud` has almost reached its disk limit.
+
+⚠️ **Exceeding this limit may cause your website or application to stop working.**
+
+Please take immediate action to:
+
+- Free up disk space by deleting unnecessary files.
+- Upgrade your VPS plan to a higher storage capacity.
+- Monitor your server usage to prevent service interruptions.
+
+## Why ?
+
 Disk space gradually increases with each Docker deployment due to:
 
 - **Dangling Docker Images**: Untagged layers from previous builds (10-100MB+ each)
