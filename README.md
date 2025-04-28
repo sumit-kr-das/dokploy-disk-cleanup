@@ -246,11 +246,12 @@ sudo rm /etc/docker/daemon.json && systemctl restart docker
 
 # FAQs
 
-Q: How often should I run cleanup?
-A: For active deployment servers, daily. For development machines, weekly.
+### Q: How often should I run cleanup?
+**A:** For active deployment servers, run cleanup **daily**. For development machines, run it **weekly**.
 
-Q: Will this affect running containers?
-A: No, prune commands only remove unused resources. Running
+### Q: Will this affect running containers?
+**A:** No, prune commands only remove **unused resources**. Running containers will not be affected.
+
 
 
 
