@@ -51,6 +51,8 @@ Disk space gradually increases with each Docker deployment due to:
 
 ## Diagnosis Steps
 
+Connect to your VPS account
+
 ### 1. Check System Disk Usage
 
 ```bash
